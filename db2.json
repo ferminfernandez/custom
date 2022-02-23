@@ -1,0 +1,22 @@
+{
+  
+  "params":{
+    "abort":"false",
+    "key":"1020",
+    "idx": "109",
+    "sec": "0",
+    "url": "http:8080",
+    "date": "25/02/2022",
+    "altMode": "true"
+    
+  },
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
