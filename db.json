@@ -4,12 +4,14 @@
     "abort":"false",
     "key":"1020",
     "XXidx": "113",
-    "idx": "116",
+    "XXidx": "116",
+    "idx": "111",
     "sec": "0",
     "url": "http:8080",
     "XXdate": "30/03/2023",
     "X2date": "20/04/2023",
-    "date": "30/06/2023",
+    "X3date": "30/06/2023",
+    "date": "30/10/2023",
     "altMode": "true",
     "maxThr":4
     
